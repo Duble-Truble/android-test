@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/mihap/AndroidStudioProjects/nekizatest/app/.cxx/Debug/614l5o61/x86",
+  "command": "C:\\Users\\mihap\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android30 --sysroot=C:/Users/mihap/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnekizatest_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\nekizatest.dir\\native-lib.cpp.o -c C:\\Users\\mihap\\AndroidStudioProjects\\nekizatest\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\mihap\\AndroidStudioProjects\\nekizatest\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

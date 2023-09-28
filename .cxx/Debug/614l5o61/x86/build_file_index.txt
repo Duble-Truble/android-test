@@ -1,0 +1,1 @@
+C:\Users\mihap\AndroidStudioProjects\nekizatest\app\src\main\cpp\CMakeLists.txt
